@@ -2,7 +2,7 @@
 
 *一款完全自动化的无头浏览器解决方案，可通过 Puppeteer、Selenium 和 Playwright 进行动态网页爬虫。抓取浏览器以 GUI 形式运行在 Bright Data 基础设施上。*  
 
-[![推广](https://github.com/bright-cn/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://www.bright.cn/products/scraping-browser) 
+[![推广](https://github.com/bright-cn/Awesome-Web-Scraping/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner%20CN.png)](https://www.bright.cn/products/scraping-browser) 
 
 🔗 **[免费开始使用](https://www.bright.cn/products/scraping-browser)** | 📖 **[官方文档](https://docs.brightdata.com/scraping-automation/scraping-browser/introduction)**  
 
